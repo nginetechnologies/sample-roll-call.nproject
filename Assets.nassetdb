@@ -1,0 +1,24 @@
+{
+    "2cc13fd2-4cb7-4fe7-a4f7-f29b777e8ed3": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Roll Call",
+        "thumbnail": "947edacf-4895-3a6b-7300-a8a32bcae83c",
+        "tags": [
+            "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9"
+        ]
+    },
+    "a8ffb1d4-dc2f-4c39-8328-84305f32a70e": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Roll Call.scene.nasset"
+    },
+    "e0c55d3c-57ab-e419-7567-ed43ad4c0465": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "guid": "e0c55d3c-57ab-e419-7567-ed43ad4c0465",
+    "imported_assets": [
+        "947edacf-4895-3a6b-7300-a8a32bcae83c"
+    ]
+}
